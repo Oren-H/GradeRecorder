@@ -27,7 +27,7 @@ Grade Inputting:
 - There will be an option to get a notification everytime an assignment has been graded so the user does not forget to input their grades
 
 ## Engagement: 
-Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
+The major reason for engagement is checking if you win/lose your bets on your and other students grades. Another major draw is being able to constantly see what your grade is but as we expand to other schools, this might not be seen as the most interesting or engaging part of the website/app.
 
 ## Scalability and Expansion: 
 The following goals can be implemented to improve the effectiveness of the website
