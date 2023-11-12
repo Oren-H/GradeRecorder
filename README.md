@@ -11,7 +11,7 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 ## User Interactions
 
 ### Class Inputting: 
-- The user can enter classes that they are currently enrolled in from a list of options. 
+- The user can enter classes that they are currently enrolled in from a list of options also important to understand that this will NOT be directly linked to the school so its not gonna have any backlash on them (like you sign up with a personal email and stuff) 
 
 - Classes automatically contain inputs for all graded assignments. These assignments are created by website admins and by other students. i.e a student might input "Unit 2 Test" and every other user will be given the option to input their grade for the Unit 2 Test
 
