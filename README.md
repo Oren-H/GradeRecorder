@@ -29,6 +29,15 @@ Grade Inputting:
 ## Engagement: 
 Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
 
+## Adictiveness
+- Users will need to stay active on the app in order to gamble on different assignemtns and students
+
+- Gamblers often don't like to miss out on gambling opportunities, so this would definitely pull in people who like to gamble
+
+- It would also attract students who don't really like gambling, because grades are quite prominent in everyones life, so it works for a wide range in users/audience
+
+- We could use in-app currency that users purchase with real money. When gambling with "fake" money, people tend to bet more or are more careless with it. This would drive a profit for us, and would cause for even more addiction!
+
 ## Competition:
 - Users can bet on who will have the highest grades by the end of each quarter, both grade/school wide, and class wide (different scopes)
 - Incentives to be the highest scorer or have the best grades (maybe like a lottery system?)
@@ -53,6 +62,8 @@ The following goals can be implemented to improve the effectiveness of the websi
 - Friend groups / people most likely to hate each other by the end of the year
 
 - Who will fall off the quickest (whether in the social scene or grade scene)
+
+- App goes to colleges and universities. College students prolly like gambling more / are more free to gamble, so it would be a smart and profitable expansion
 
 ## Accessibility and Inclusivity: 
 There will be no limits to who can access the website, but some features (such as inputting class specific information) will only be available to students with a harvard westlake email. This does not violate the accessibility and inclusivity law since people without a HW email do not constitute a protected class
