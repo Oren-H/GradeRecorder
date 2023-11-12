@@ -34,12 +34,12 @@ Students can engage in a variety of bets, including grade predictions, teacher g
 
 ## Betting Categories
 
-- **Academic Performance**: Bet on who will receive certain grades, which teacher grades the harshest, or whether a student will achieve a specific GPA.
+- **Academic Performance**: Bet on who will receive certain grades, which teacher grades the harshest, who will be valedictorian/salutatorian, or whether a student will achieve a specific GPA.
 - **Clubs and Activities**: Bet on who will receive a leadership role in a play or club.
 - **College Admissions**: Predict who will get into their top choice or any given college.
 - **School Policies**: Bet on whether someone will be honor boarded, dress coded, suspended, or expelled.
 - **Teacher Predictions**: Wager on whether a teacher will retire or make specific decisions.
-- **Social Bets**: Guess how long a relationship will last or the outcome of other high school social events.
+- **Social Bets**: Guess whether a relationship will happen, how long a relationship will last, or the outcome of other high school social events.
 
 ## Engagement
 
