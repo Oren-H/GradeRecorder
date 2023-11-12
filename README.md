@@ -36,7 +36,7 @@ The following goals can be implemented to improve the effectiveness of the websi
 
 - Creating an app like iHW for displaying grade information.  
 
-- Expanding to more schools 
+- Expanding to more schools (this part is important and probably very easy) since most schools use hub or google classroom or something similar it will be easy to expand to other schools. One important thing to note tho is that public schools at least in LA require students to have access to their grades at all times like exact grades, so "Grade Recorder" would be used way more for the gamified aspect of the app than the actual grade checking aspect, still, I think it would be used in public schools as well.
 
 ## Accessibility and Inclusivity: 
 There will be no limits to who can access the website, but some features (such as inputting class specific information) will only be available to students with a harvard westlake email. This does not violate the accessibility and inclusivity law since people without a HW email do not constitute a protected class
