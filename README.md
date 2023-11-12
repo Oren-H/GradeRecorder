@@ -1,8 +1,11 @@
-# GradeRecorder
+# HW Bets
 
 ## Introduction:
 
-Grade Recorder (name subject to change) would allow Harvard-Westlake students to view all of their grades in real time. Gone are the days of waiting patiently for grades to come out and living in fearful anticipation of what letter will appear on your transcript. Grade Recorder will allow students to keep track of their grades by recording all of the assignments in each official HW class and prompting users for grade inputs. Built-in weighing metrics will be implemented per class, allowing students to see how they are doing real time for each academic subject. 
+HW Bets would allow Harvard-Westlake students to view all of their grades in real time. Gone are the days of waiting patiently for grades to come out and living in fearful anticipation of what letter will appear on your transcript. Grade Recorder will allow students to keep track of their grades by recording all of the assignments in each official HW class and prompting users for grade inputs. Built-in weighing metrics will be implemented per class, allowing students to see how they are doing real time for each academic subject. 
+
+## Philosophy
+An immediate concern about this website idea is that it is toxic. Why do some believe its toxic? Since people place so much emphasis on grades and colleges, they are immediately sensitive to the idea of gamifying such an important aspect of their life. However, it is exactly that hyperfixation on grades that makes HW toxic. By showing students that grades and college decisions are as irrelevant in the grand scheme of things as who will come first in a horse race or win the Superbowl, we will shatter the notion that grades define who we are. We the students will cast away this society of toxicity and grade obsession, and replace it with gamified betting. 
 
 ## Value: 
 In addition to giving HW students peace of mind, Grade Recorder will allow students to think strategically about the time they put into each class to improve their GPA and wellbeing.
@@ -53,3 +56,4 @@ The following goals can be implemented to improve the effectiveness of the websi
 
 ## Accessibility and Inclusivity: 
 There will be no limits to who can access the website, but some features (such as inputting class specific information) will only be available to students with a harvard westlake email. This does not violate the accessibility and inclusivity law since people without a HW email do not constitute a protected class
+
