@@ -6,7 +6,7 @@ HW Sportsbook, a unique twist to the classic Harvard-Westlake student experience
 
 ## Value
 
-This app adds an exciting dimension to student life, offering a mix of strategy, competition, and fun. It takes the typical school experience to a new level, making every aspect of Harvard-Westlake life a potential bet.
+This app adds an exciting dimension to student life, offering a mix of strategy, competition, and fun. It takes the typical school experience to a new level, making every aspect of Harvard-Westlake life a potential bet. Also, it may add more ethical value as detailed at the end of this document.
 
 ## Competition
 
@@ -31,6 +31,7 @@ Students can engage in a variety of bets, including grade predictions, teacher g
 - Students can place bets on different outcomes, from academic achievements to social events.
 - The platform will offer real-time odds and updates on all bets.
 - A user-friendly dashboard will track bets, wins, losses, and academic performance.
+- Each bet is anonymous by default, but users can share their identities if they so desire. They would be verified based on their HW email addresses.
 
 ## Betting Categories
 
@@ -43,7 +44,7 @@ Students can engage in a variety of bets, including grade predictions, teacher g
 
 ## Engagement
 
-The blend of academic tracking and betting brings a unique excitement to Harvard-Westlake students, offering a novel way to engage with the school community.
+The blend of academic tracking and betting brings a unique excitement to Harvard-Westlake students, offering a novel way to engage with the school community. It's extremely addictive. Why? Well, it's gambling, for goodness' sake!
 
 ## Scalability and Expansion
 
@@ -51,7 +52,7 @@ The blend of academic tracking and betting brings a unique excitement to Harvard
 - Creating an app like iHW for displaying grade information.
 - Expanding to more schools for inter-school betting leagues.
 
-We could also create betting hubs for other high schools and colleges/universities eventually. This will be the next Wordle, but FAR more addictive.
+We could also create betting hubs for other high schools and colleges/universities eventually. This will be the next Wordle, but FAR more addictive. Sportsbook could become Schoolsbook, with Subreddit equivalents for each academic institutions.
 
 ## Accessibility and Inclusivity
 
