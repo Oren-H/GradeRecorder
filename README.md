@@ -51,6 +51,14 @@ The blend of academic tracking and betting brings a unique excitement to Harvard
 - Creating an app like iHW for displaying grade information.
 - Expanding to more schools for inter-school betting leagues.
 
+We could also create betting hubs for other high schools and colleges/universities eventually. This will be the next Wordle, but FAR more addictive.
+
 ## Accessibility and Inclusivity
 
 Open to all; everyone can use features like general grade calculation. Certain features like betting and HW-specific assignment listings for easy grade inputting will be restricted to Harvard-Westlake students (as dictated by their possession of an HW email address) for a tailored experience. In other words, there will be no limits to who can access the website, but some features will only be available to students with a Harvard-Westlake email.
+
+## The Real Secret Sauce
+
+You thought you understood toxicity before, but HW Sportsbook will bring that to a whole new level. However, by turning "serious" topics like grades and college admissions into funny things to talk about/bet on with friends, HW Sportsbook will undoubtedly bring a more lighthearted atmosphere to campus, improving student mental health. 
+
+Sure, we might get expelled for doing this. But at least we can bet on our own expulsions for a profit!
