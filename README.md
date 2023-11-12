@@ -29,6 +29,13 @@ Grade Inputting:
 ## Engagement: 
 Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
 
+## Competition:
+- Users can bet on who will have the highest grades by the end of each quarter, both grade/school wide, and class wide (different scopes)
+- Incentives to be the highest scorer or have the best grades (maybe like a lottery system?)
+    - Best grades will win from a certain money pool maybe from gambling ring
+
+
+
 ## Scalability and Expansion: 
 The following goals can be implemented to improve the effectiveness of the website
 
@@ -37,6 +44,15 @@ The following goals can be implemented to improve the effectiveness of the websi
 - Creating an app like iHW for displaying grade information.  
 
 - Expanding to more schools 
+
+- Add more features such as likelihoods
+    - Highest chance of person having the best/worst GPA
+    - Chances of people getting the lowest and highest scores on a specific assignment in a class
+    - Chances of person being valedictorian
+
+- Friend groups / people most likely to hate each other by the end of the year
+
+- Who will fall off the quickest (whether in the social scene or grade scene)
 
 ## Accessibility and Inclusivity: 
 There will be no limits to who can access the website, but some features (such as inputting class specific information) will only be available to students with a harvard westlake email. This does not violate the accessibility and inclusivity law since people without a HW email do not constitute a protected class
