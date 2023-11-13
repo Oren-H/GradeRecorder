@@ -34,6 +34,9 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 ## Engagement: 
 Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
 
+- to increase competition, people who win bets can win points
+- there can be another point system for students who consistently get the high grades on assignments
+
 ## Scalability and Expansion: 
 The following goals can be implemented to improve the effectiveness of the website
 
