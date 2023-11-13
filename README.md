@@ -31,11 +31,12 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 # Grades Betting:
 - students in the same course can create and join a smaller group to bet on grades if they don't want to share their grades with the rest of the class
 
+- to increase competition, people who win bets can win points
+- there can be another point system for students who consistently get the high grades on assignments
+
 ## Engagement: 
 Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
 
-- to increase competition, people who win bets can win points
-- there can be another point system for students who consistently get the high grades on assignments
 
 ## Scalability and Expansion: 
 The following goals can be implemented to improve the effectiveness of the website
