@@ -24,7 +24,7 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 
 - If an assignment is not lsited, the user can add it manually
 
-- Grades will be autocalculated and displayed
+- Grades will be autocalculated and displayed (organized kind of like the bottom of the hub page with section grades too (tests, quizzes, hw etc))
 
 - There will be an option to get a notification everytime an assignment has been graded so the user does not forget to input their grades
 
