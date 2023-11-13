@@ -31,7 +31,7 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 # Grades Betting:
 - students in the same course can create and join a smaller group to bet on grades if they don't want to share their grades with the rest of the class
 
-- to increase competition, people who win bets can win points
+- to increase competition, people who win bets can win points (that will be displayed next to username?)
 - there can be another point system for students who consistently get the high grades on assignments
 
 ## Engagement: 
