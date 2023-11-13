@@ -13,14 +13,14 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 ### Class Inputting: 
 - The user can enter classes that they are currently enrolled in from a list of options. 
 
-- students may also be categorized by the teacher they have since different teachers might grade differently or have different assignemnts
-
 - Classes automatically contain inputs for all graded assignments. These assignments are created by website admins and by other students. i.e a student might input "Unit 2 Test" and every other user will be given the option to input their grade for the Unit 2 Test
 
 - Teacher grading scales can also be inputted
 
-Grade Inputting:
+# Grade Inputting:
 - Users will input their scores on all assignments listed for each class
+
+- students may also be categorized by the teacher they have since different teachers might grade differently or have different assignemnts
 
 - If an assignment is not lsited, the user can add it manually
 
@@ -28,7 +28,7 @@ Grade Inputting:
 
 - There will be an option to get a notification everytime an assignment has been graded so the user does not forget to input their grades
 
-## Grades Betting:
+# Grades Betting:
 - students in the same course can create and join a smaller group to bet on grades if they don't want to share their grades with the rest of the class
 
 ## Engagement: 
