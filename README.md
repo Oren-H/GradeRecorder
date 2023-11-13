@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Grade Recorder (name subject to change) would allow Harvard-Westlake students to view all of their grades in real time. Gone are the days of waiting patiently for grades to come out and living in fearful anticipation of what letter will appear on your transcript. Grade Recorder will allow students to keep track of their grades by recording all of the assignments in each official HW class and prompting users for grade inputs. Built-in weighing metrics will be implemented per class, allowing students to see how they are doing real time for each academic subject. 
+Grade Recorder (name subject to change) would allow Harvard-Westlake students to bet on grades and view them in real time. Gone are the days of waiting patiently for grades to come out and living in fearful anticipation of what letter will appear on your transcript. Grade Recorder will allow students to keep track of their grades by recording all of the assignments in each official HW class and prompting users for grade inputs. Built-in weighing metrics will be implemented per class, allowing students to see how they are doing real time for each academic subject. 
 
 Value: In addition to giving HW students peace of mind, Grade Recorder will allow students to think strategically about the time they put into each class to improve their GPA and wellbeing.
 
