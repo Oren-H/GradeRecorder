@@ -22,9 +22,9 @@ Grade Inputting:
 
 - If an assignment is not lsited, the user can add it manually
 
-- Grades will be autocalculated and displayed
+- Grades will be autocalculated and displayed 
 
-- There will be an option to get a notification everytime an assignment has been graded so the user does not forget to input their grades
+- There will be an option to get a notification everytime an assignment has been graded so the user does not forget to input their grades the only hard part with this is figuring out how to link the hub to this app but also keeping the app not school affiliated I don't know exactly how to fix that but I think that this is an issue we would need to help fight.
 
 ## Engagement: 
 The major reason for engagement is checking if you win/lose your bets on your and other students grades. Another major draw is being able to constantly see what your grade is but as we expand to other schools, this might not be seen as the most interesting or engaging part of the website/app.
