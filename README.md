@@ -16,18 +16,21 @@ Competition: To satisfy the competitive aspect of the assignment, users will be 
 - Classes automatically contain inputs for all graded assignments. These assignments are created by website admins and by other students. i.e a student might input "Unit 2 Test" and every other user will be given the option to input their grade for the Unit 2 Test
 
 - Teacher grading scales can also be inputted
+    - grading scales should be already preset per class. We don't want users having to tediously place their teachers grading scale in the app. This would make for possible frustration, and maybe confusion on how to use the app unless we have a tutorial or necessary pop-up explaining how to do it. 
 
 Grade Inputting:
 - Users will input their scores on all assignments listed for each class
 
-- If an assignment is not lsited, the user can add it manually
+- If an assignment is not listed, the user can add it manually through a very user-friendly screen (better than hub/canvas plz)
 
-- Grades will be autocalculated and displayed
+- Grades will be autocalculated and displayed. Users can opt in to have their scores be placed on a leaderboard for specific assignments
 
 - There will be an option to get a notification everytime an assignment has been graded so the user does not forget to input their grades
 
 ## Engagement: 
-Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
+- Users will be drawn to the website due to the convenience it provides in gradekeeping and the entertainment created by the betting feature. 
+
+- Students will be excited to create parlays (bets), and can check their rankings among other students across their class or grade. 
 
 ## Adictiveness
 - Users will need to stay active on the app in order to gamble on different assignemtns and students
@@ -50,9 +53,10 @@ The following goals can be implemented to improve the effectiveness of the websi
 
 -  Creating a direct communication between Grade Recorder and the hub, allowing for instantaneous inputting of all assignments graded on the hub
 
-- Creating an app like iHW for displaying grade information.  
+- Creating an app like iHW for displaying grade information.
+    - No specific assignments here, just classes and grades for simplicity. Maybe here is where the leaderboards would be implemented
 
-- Expanding to more schools 
+- Expanding to more schools around LA and maybe the US.
 
 - Add more features such as likelihoods
     - Highest chance of person having the best/worst GPA
